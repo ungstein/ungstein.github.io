@@ -6866,7 +6866,7 @@ button.DialogButton::-moz-focus-inner {
     margin-top: 3px;
     margin-right: 3px;
     cursor: pointer;
-    background-image: url(https://ungstein.github.io/steamui/images/window_close.png);
+    background-image: url(https://ungstein.github.io/og-steam-library/steamui/images/window_close.png);
 	background-position: center;
     border-radius: 0px;
 	box-sizing: border-box;
@@ -6878,7 +6878,7 @@ button.DialogButton::-moz-focus-inner {
     width: 20px;
     height: 19px;
     cursor: pointer;
-    background-image: url(https://ungstein.github.io/steamui/images/window_close.png);
+    background-image: url(https://ungstein.github.io/og-steam-library/steamui/images/window_close.png);
 	background-position: center;
     border-radius: 0px;
 	box-sizing: border-box;
@@ -6968,7 +6968,7 @@ button.DialogButton::-moz-focus-inner {
   flex-direction: column;
   overflow: auto;
   /*border: 0.5px dashed #f805;*/
-  background-image: url(https://ungstein.github.io/steamui/images/icon_steam.png);
+  background-image: url(https://ungstein.github.io/og-steam-library/steamui/images/icon_steam.png);
   background-repeat: no-repeat; }
 
 .DialogContent.DialogContentFullSize {
@@ -7935,7 +7935,7 @@ body.in_global_drag .title-area {
   margin-top: 7px;
   margin-right: 5px;
   cursor: pointer;
-  background-image: url(https://ungstein.github.io/steamui/images/window_close.png);
+  background-image: url(https://ungstein.github.io/og-steam-library/steamui/images/window_close.png);
   background-position: center;
   box-sizing: border-box;
   border-style: solid;
@@ -7952,7 +7952,7 @@ body.in_global_drag .title-area {
   margin-top: 8px;
   margin-right: 5px;
   cursor: pointer;
-  background-image: url(https://ungstein.github.io/steamui/images/window_close.png);
+  background-image: url(https://ungstein.github.io/og-steam-library/steamui/images/window_close.png);
   background-position: center;
   box-sizing: border-box;
   border-style: solid;
