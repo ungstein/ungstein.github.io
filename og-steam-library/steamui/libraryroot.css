@@ -2091,7 +2091,7 @@ body.modals_BodyNoScrollDialog_105OB {
     padding: 6px 0px;
     opacity: .5; }
   .appdetailsfeatureicon_Container_1SIa8 .appdetailsfeatureicon_Label_1VoVz {
-    color: #919191;
+    color: var(--Label);
     font-size: 13px;
     margin-left: 5px;
     line-height: 24px;
