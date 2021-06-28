@@ -1048,7 +1048,7 @@ html.contextmenu_ContextMenuPopup_14wqd .contextmenu_contextMenuItem_1n7Wl {
   white-space: normal;
   max-width: 180px;
   text-overflow: ellipsis;
-  color: #7e7e7e;
+  color: var(--Label);
   font-size: 15px;
   font-weight: normal;
   text-transform: uppercase;
@@ -7144,7 +7144,7 @@ button.DialogButton::-moz-focus-inner {
   text-transform: none;
   text-align: center;
   font-weight: 300;
-  color: #7e7e7e;
+  color: var(--Label);
   font-size: 13px;
   margin-top: 4px; }
 
@@ -18957,7 +18957,7 @@ span.partnersaledisplay_vr_required_1P__h {
 .STV_BroadcastSettings .videoControlButton .SVGIcon_Settings path {
   fill: transparent;
   stroke: #fff;
-  stroke: #7e7e7e;
+  stroke: var(--Label);
   stroke-width: 10px; }
 
 .STV_BroadcastSettingsPanel {
@@ -19023,7 +19023,7 @@ span.partnersaledisplay_vr_required_1P__h {
   align-items: center; }
 
 .videoControlButton .SVGIcon_Button polyline, .videoControlButton .SVGIcon_Button path {
-  fill: #7e7e7e;
+  fill: var(--Label);
   transition: fill .12s ease-in-out; }
 
 .videoControlButton:hover .SVGIcon_Button polyline, .videoControlButton:hover .SVGIcon_Button path, .BroadcastVolumeControl:hover .SVGIcon_Button polyline, .BroadcastVolumeControl:hover .SVGIcon_Button path {
@@ -19120,8 +19120,8 @@ span.partnersaledisplay_vr_required_1P__h {
   fill: #fff; }
 
 .videoControlButton.buttonPlayPause:hover {
-  border: 1px solid #7e7e7e;
-  background-color: #7e7e7e; }
+  border: 1px solid var(--Label);
+  background-color: var(--Label); }
 
 .videoControlButton .SVGIcon_Button.SVGIcon_ClosedCaption {
   width: 24px;
@@ -19131,7 +19131,7 @@ span.partnersaledisplay_vr_required_1P__h {
 
 .videoControlButton .SVGIcon_Button.SVGIcon_ClosedCaption path.CCBox {
   fill: transparent;
-  stroke: #7e7e7e; }
+  stroke: var(--Label); }
 
 .videoControlButton.ClosedCaptionsActive .SVGIcon_Button.SVGIcon_ClosedCaption path.CCBox {
   fill: var(--Label);
@@ -19139,7 +19139,7 @@ span.partnersaledisplay_vr_required_1P__h {
 
 .videoControlButton.ClosedCaptionsActive .SVGIcon_Button.SVGIcon_ClosedCaption path.C1 {
   fill: #000;
-  stroke: #7e7e7e; }
+  stroke: var(--Label); }
 
 .BroadcastVolumeControl {
   /* collapsed width */
@@ -19166,7 +19166,7 @@ span.partnersaledisplay_vr_required_1P__h {
   display: none; }
 
 .BroadcastVolumeControl.muted .SVGIcon_Volume .SoundX line {
-  stroke: #7e7e7e;
+  stroke: var(--Label);
   stroke-width: 10px; }
 
 .BroadcastVolumeControl.muted:hover .SVGIcon_Volume .SoundX line {
@@ -19185,7 +19185,7 @@ span.partnersaledisplay_vr_required_1P__h {
   cursor: pointer; }
 
 .BroadcastVolumeSlider_Track {
-  background-color: #7e7e7e;
+  background-color: var(--Label);
   position: absolute;
   left: 0;
   right: 0;
