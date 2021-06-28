@@ -883,7 +883,7 @@ html.contextmenu_ContextMenuPopup_14wqd .contextmenu_contextMenuItem_1n7Wl {
     font-size: 12px;
     text-transform: uppercase; }
   .contextmenu_contextMenuItem_1n7Wl.contextmenu_StrongerSeparation_1BNck {
-    border-top-color: dimgray; }
+    border-top-color: var(--Label); }
   .contextmenu_contextMenuItem_1n7Wl.contextmenu_UpperCase_uz1Xm {
     text-transform: uppercase; }
   .contextmenu_contextMenuItem_1n7Wl .SVGIcon_Button {
@@ -13783,7 +13783,7 @@ div.appgrid_CoverSizeSlider_U4J9B {
 	  color: var(--Maize); }
     .collectionview_Container_2q70u .collectionview_Header_2rqTS .collectionview_SectionCount_3Xgxj {
       margin-left: 8px;
-      color: dimgray;
+      color: var(--Label);
       user-select: none; }
     .collectionview_Container_2q70u .collectionview_Header_2rqTS .collectionview_Rule_1grg9 {
       flex-grow: 1;
@@ -14354,11 +14354,11 @@ div.appgrid_CoverSizeSlider_U4J9B {
         .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_Filters_1PgAo .gamelistdropdown_CheckboxWithImage_3mzKd.gamelistdropdown_Active_1QFFk:hover svg path, .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_Filters_1PgAo .gamelistdropdown_CheckboxWithImage_3mzKd.gamelistdropdown_Active_1QFFk:hover svg line, .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_Filters_1PgAo .gamelistdropdown_CheckboxWithImage_3mzKd.gamelistdropdown_Active_1QFFk:hover svg polyline, .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_Filters_1PgAo .gamelistdropdown_CheckboxWithImage_3mzKd.gamelistdropdown_Active_1QFFk:hover svg circle {
           stroke: #fff; }
       .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_Filters_1PgAo .gamelistdropdown_CheckboxWithImage_3mzKd.gamelistdropdown_Disabled_1MAuQ svg {
-        fill: dimgray; }
+        fill: var(--Label); }
         .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_Filters_1PgAo .gamelistdropdown_CheckboxWithImage_3mzKd.gamelistdropdown_Disabled_1MAuQ svg g path {
-          fill: dimgray; }
+          fill: var(--Label); }
         .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_Filters_1PgAo .gamelistdropdown_CheckboxWithImage_3mzKd.gamelistdropdown_Disabled_1MAuQ svg path, .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_Filters_1PgAo .gamelistdropdown_CheckboxWithImage_3mzKd.gamelistdropdown_Disabled_1MAuQ svg line, .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_Filters_1PgAo .gamelistdropdown_CheckboxWithImage_3mzKd.gamelistdropdown_Disabled_1MAuQ svg polyline, .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_Filters_1PgAo .gamelistdropdown_CheckboxWithImage_3mzKd.gamelistdropdown_Disabled_1MAuQ svg circle {
-          stroke: dimgray; }
+          stroke: var(--Label); }
       .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_Filters_1PgAo .gamelistdropdown_CheckboxWithImage_3mzKd .SVGIcon_Installed {
         transform: translateY(-4px); }
         .gamelistdropdown_Bar_1ZS_x .gamelistdropdown_Filters_1PgAo .gamelistdropdown_CheckboxWithImage_3mzKd .SVGIcon_Installed .Catch {
@@ -14426,7 +14426,7 @@ div.appgrid_CoverSizeSlider_U4J9B {
         height: 14px;
         margin-left: 1px; }
       .gamelistdropdown_DropDown_EDl_m .gamelistdropdown_Row_1BAKX.gamelistdropdown_Checkbox_2_iY4.gamelistdropdown_Disabled_1MAuQ, .gamelistdropdown_DropDown_EDl_m .gamelistdropdown_Row_1BAKX.gamelistdropdown_Checkbox_2_iY4.gamelistdropdown_Disabled_1MAuQ:hover {
-        color: dimgray; }
+        color: var(--Label); }
       .gamelistdropdown_DropDown_EDl_m .gamelistdropdown_Row_1BAKX.gamelistdropdown_Checkbox_2_iY4.DialogCheckbox_Container {
         margin-bottom: 0px; }
       .gamelistdropdown_DropDown_EDl_m .gamelistdropdown_Row_1BAKX.gamelistdropdown_Checkbox_2_iY4 .DialogCheckbox {
@@ -14439,7 +14439,7 @@ div.appgrid_CoverSizeSlider_U4J9B {
   .gamelistdropdown_DropDown_EDl_m .gamelistdropdown_Rule_2kvdT {
     height: 1px;
     margin: 2px 4px;
-    background-color: dimgray; }
+    background-color: var(--Label); }
 
 .gamelistdropdown_ScrollToTop_uE7Pj {
   width: 24px;
