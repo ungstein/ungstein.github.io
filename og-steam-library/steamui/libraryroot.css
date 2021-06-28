@@ -1058,7 +1058,7 @@ html.contextmenu_ContextMenuPopup_14wqd .contextmenu_contextMenuItem_1n7Wl {
   .pagedsettings_PagedSettingsDialog_PageListItem_1-vlr.pagedsettings_DisabledItem_oUzYn, .pagedsettings_PagedSettingsDialog_PageListItem_1-vlr.pagedsettings_DisabledItem_oUzYn:hover, .pagedsettings_PagedSettingsDialog_PageListItem_1-vlr.pagedsettings_DisabledItem_oUzYn:not(.pagedsettings_Active_2DpXj):hover {
     color: #414141; }
   .pagedsettings_PagedSettingsDialog_PageListItem_1-vlr:not(.pagedsettings_Active_2DpXj):hover {
-    color: #ffffff80ccc; }
+    color: var(--Label); }
   .pagedsettings_PagedSettingsDialog_PageListItem_1-vlr.pagedsettings_Active_2DpXj {
     color: #fff;
     cursor: default; }
@@ -3673,7 +3673,7 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3Cdin {
   color: #8277b1; }
 
 .online .personanameandstatus_playerName_nOdcT {
-  color: #ffffff80cd5;
+  color: var(--Label);
   color: #6dcff6; }
 
 .online .personanameandstatus_richPresenceLabel_2Ri00,
@@ -3790,7 +3790,7 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3Cdin {
   display: none; }
 
 .ChatTabs .personanameandstatus_compactView_3bbRZ .offline .personanameandstatus_statusAndName_4ZTzG {
-  color: #ffffff80ccc; }
+  color: var(--Label); }
 
 .ChatTabs .personanameandstatus_compactView_3bbRZ .offline .personanameandstatus_richPresenceLabel_2Ri00 {
   color: #ffffff80; }
@@ -4665,8 +4665,8 @@ a.appdetailsbroadcastsection_ViewBroadcastOnWeb_1Z3B4 {
       opacity: 0;
       cursor: pointer; }
       .appactivityday_Event_UVeN0 .appactivityday_EventHeadline_QCKBq .appactivityday_DeleteButton_djC4r:hover .appactivityday_DeleteUserNews_1Ur_j {
-        fill: #ffffff80CCC;
-        stroke: #ffffff80CCC; }
+        fill: var(--Label);
+        stroke: var(--Label); }
       .appactivityday_Event_UVeN0 .appactivityday_EventHeadline_QCKBq .appactivityday_DeleteButton_djC4r .appactivityday_DeleteUserNews_1Ur_j {
         width: auto;
         height: inherit;
@@ -8463,9 +8463,9 @@ body.in_global_drag .title-area {
           .comment_thread_ActivityCommentThread_39nna .comment_thread_Comment_515RL .comment_thread_CommentBody_1ltVe .comment_thread_CommentControls_2-3DH .comment_thread_CommentRatingButton_2ftHa:hover {
             background-color: #323941; }
             .comment_thread_ActivityCommentThread_39nna .comment_thread_Comment_515RL .comment_thread_CommentBody_1ltVe .comment_thread_CommentControls_2-3DH .comment_thread_CommentRatingButton_2ftHa:hover .comment_thread_CommentRating_1L2eb.comment_thread_CommentRating_1L2eb, .comment_thread_ActivityCommentThread_39nna .comment_thread_Comment_515RL .comment_thread_CommentBody_1ltVe .comment_thread_CommentControls_2-3DH .comment_thread_CommentRatingButton_2ftHa:hover .comment_thread_ThumbsUpComment_1DwcI.comment_thread_ThumbsUpComment_1DwcI {
-              color: #ffffff80ccc;
-              fill: #ffffff80ccc;
-              stroke: #ffffff80ccc;
+              color: var(--Label);
+              fill: var(--Label);
+              stroke: var(--Label);
               opacity: 1; }
             .comment_thread_ActivityCommentThread_39nna .comment_thread_Comment_515RL .comment_thread_CommentBody_1ltVe .comment_thread_CommentControls_2-3DH .comment_thread_CommentRatingButton_2ftHa:hover .comment_thread_CommentRating_1L2eb.comment_thread_CommentRating_1L2eb, .comment_thread_ActivityCommentThread_39nna .comment_thread_Comment_515RL .comment_thread_CommentBody_1ltVe .comment_thread_CommentControls_2-3DH .comment_thread_CommentRatingButton_2ftHa:hover .comment_thread_ThumbsUpComment_1DwcI.comment_thread_ThumbsUpComment_1DwcI.comment_thread_UserRated_2gr2M {
               fill: #2a80ad;
@@ -8530,18 +8530,18 @@ body.in_global_drag .title-area {
       .comment_thread_RatingBar_1yWgP .comment_thread_Reactions_35yrb.comment_thread_CanClick_3Mds9:hover .comment_thread_LikeCount_3grvn,
       .comment_thread_RatingBar_1yWgP .comment_thread_Reactions_35yrb.comment_thread_CanClick_3Mds9:hover .comment_thread_CommentCount_2RkIc,
       .comment_thread_RatingBar_1yWgP .comment_thread_Reactions_35yrb.comment_thread_CanClick_3Mds9:hover .comment_thread_ReactionCount_1S3Q9 {
-        color: #ffffff80ccc; }
+        color: var(--Label); }
       .comment_thread_RatingBar_1yWgP .comment_thread_LikeButton_161IK.comment_thread_CanClick_3Mds9:hover .comment_thread_RatingIcon_2AVfX,
       .comment_thread_RatingBar_1yWgP .comment_thread_CommentButton_3i62H.comment_thread_CanClick_3Mds9:hover .comment_thread_RatingIcon_2AVfX,
       .comment_thread_RatingBar_1yWgP .comment_thread_Reactions_35yrb.comment_thread_CanClick_3Mds9:hover .comment_thread_RatingIcon_2AVfX {
         width: auto;
         height: inherit;
-        fill: #ffffff80ccc;
-        stroke: #ffffff80ccc; }
+        fill: var(--Label);
+        stroke: var(--Label); }
       .comment_thread_RatingBar_1yWgP .comment_thread_LikeButton_161IK.comment_thread_CanClick_3Mds9:hover .comment_thread_ReactionSvg_1Wl4V path,
       .comment_thread_RatingBar_1yWgP .comment_thread_CommentButton_3i62H.comment_thread_CanClick_3Mds9:hover .comment_thread_ReactionSvg_1Wl4V path,
       .comment_thread_RatingBar_1yWgP .comment_thread_Reactions_35yrb.comment_thread_CanClick_3Mds9:hover .comment_thread_ReactionSvg_1Wl4V path {
-        fill: #ffffff80ccc; }
+        fill: var(--Label); }
   .comment_thread_RatingBar_1yWgP .comment_thread_LikeIcon_1OhPt {
     margin-bottom: 1px;
     margin-top: -1px; }
@@ -22122,7 +22122,7 @@ div.creatorhomeembed_SocialContainer_1o1Ds {
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  color: #ffffff80890;
+  color: var(--Label);
   font-size: 13px;
   position: absolute;
   top: 0;
