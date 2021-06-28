@@ -788,7 +788,7 @@
   border-radius: 3px;
   background-color: rgba(59, 63, 72, 0.5); }
   .toggle_ToggleRow_NnxzA .toggle_Label_xK7Vv {
-    color: #dfe3e6;
+    color: var(--Label);
     font-size: 14px;
     font-weight: 300; }
     .toggle_ToggleRow_NnxzA .toggle_Label_xK7Vv.toggle_Disabled_1jIKG {
@@ -1173,7 +1173,7 @@ body.modals_BodyNoScrollDialog_105OB {
     .eaaccessdialog_DialogContainer_24vXJ .eaaccessdialog_DialogBody_1IQVr .eaaccessdialog_Button_3F9ki {
       background-color: #3d4450;
       line-height: 32px;
-      color: #dfe3e6;
+      color: var(--Label);
       text-align: center;
       border-radius: 2px;
       cursor: pointer;
@@ -1270,7 +1270,7 @@ body.modals_BodyNoScrollDialog_105OB {
     background-position: 25%;
     background-size: 330% 100%;
     text-transform: uppercase;
-    color: #dfe3e6;
+    color: var(--Label);
     font-size: 11px;
     text-align: center;
     border-radius: 2px;
@@ -2878,7 +2878,7 @@ button.appdetailsheader_ExitEditModeButton_i7jBC.appdetailsheader_ExitEditModeBu
     text-decoration: underline;
     cursor: pointer; }
     .appproperties_AppProperties_1FyBL .DialogBody .appproperties_SteamInputLink_fy_T9:hover {
-      color: #dfe3e6; }
+      color: var(--Label); }
   .appproperties_AppProperties_1FyBL .DialogBody .appproperties_SteamInputComboHeader_117yW {
     display: flex;
     align-items: flex-end; }
@@ -2910,7 +2910,7 @@ button.appdetailsheader_ExitEditModeButton_i7jBC.appdetailsheader_ExitEditModeBu
           background-color: #3a7fd5;
           filter: drop-shadow(0 0 2px #202020); }
     .appproperties_AppProperties_1FyBL .DialogBody .appproperties_SteamInputStatusGrid_3lj3- .appproperties_SteamInputStatus_2H4Ly {
-      color: #dfe3e6; }
+      color: var(--Label); }
   .appproperties_AppProperties_1FyBL .DialogBody .appproperties_DlcTopRow_ZII4C {
     display: flex;
     flex-direction: row; }
@@ -2966,7 +2966,7 @@ button.appdetailsheader_ExitEditModeButton_i7jBC.appdetailsheader_ExitEditModeBu
       flex-direction: row;
       align-items: center;
       margin: 8px;
-      color: #dfe3e6; }
+      color: var(--Label); }
       .appproperties_AppProperties_1FyBL .DialogBody .appproperties_DlcGrid_3sXdO .appproperties_Name_bP2Ip.appproperties_HideImages_3mxYy {
         overflow: hidden; }
         .appproperties_AppProperties_1FyBL .DialogBody .appproperties_DlcGrid_3sXdO .appproperties_Name_bP2Ip.appproperties_HideImages_3mxYy .appproperties_NameText_a19Ki {
@@ -3053,7 +3053,7 @@ button.appdetailsheader_ExitEditModeButton_i7jBC.appdetailsheader_ExitEditModeBu
     flex-direction: row;
     align-items: center;
     margin: 8px;
-    color: #dfe3e6;
+    color: var(--Label);
 }
 .appproperties_AppProperties_1FyBL .DialogBody .appproperties_WorkshopGrid_2ZL5A .appproperties_Name_bP2Ip.appproperties_HideImages_3mxYy {
     overflow: hidden;
@@ -3115,7 +3115,7 @@ button.appdetailsheader_ExitEditModeButton_i7jBC.appdetailsheader_ExitEditModeBu
   flex-direction: row;
   padding: 9px;
   margin: 0;
-  color: #dfe3e6;
+  color: var(--Label);
   background: transparent;
   border-radius: 3px;
   font-size: 12px; }
@@ -6900,7 +6900,7 @@ button.DialogButton::-moz-focus-inner {
   box-shadow: 0px 8px 38px 5px rgba(0, 0, 0, 0.75);
   margin: auto;
   font-weight: 300;
-  color: #fff;
+  color: var(--Label);
   font-size: 16px;
   position: relative;
   display: flex;
@@ -7170,7 +7170,7 @@ button.DialogButton::-moz-focus-inner {
 .DialogTextInputBase,
 ._DialogInputContainer {
   background: var(--DarkGreenBG);
-  color: #dfe3e6;
+  color: var(--Label);
   font-size: 12px;
   font-family: "Motiva Sans", Arial, Helvetica, sans-serif;
   font-weight: 300;
@@ -7487,11 +7487,11 @@ button.TextButton:focus {
   padding-top: 8px; }
 
 .DialogOnOffToggle_Option.Active {
-  color: #dfe3e6;
+  color: var(--Label);
   background: var(--MaizeBG); }
 
 .DialogOnOffToggle_Option.Off.Active {
-  color: #dfe3e6;
+  color: var(--Label);
   background: #5f6875; }
 
 .DialogOnOffToggle_Option:hover {
@@ -8828,7 +8828,7 @@ body.in_global_drag .title-area {
   border-width: 1px;
   border-color: var(--BorderBright) var(--BorderDark) var(--BorderDark) var(--BorderBright);
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-  color: #dfe3e6;
+  color: var(--Label);
   transition-property: background, color, box-shadow;
   transition-duration: 0.2s;
   transition-timing-function: ease-out; }
@@ -14919,7 +14919,7 @@ b {
     box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.5); }
 
 .partnereventshared_Button_1ABCO {
-  color: #dfe3e6;
+  color: var(--Label);
   transition: all 0.2s ease-out;
   background: #3d4450;
   padding: 6px 25px 6px 25px;
@@ -14933,7 +14933,7 @@ b {
     cursor: pointer; }
 
 .partnereventshared_Button_1ABCO.partnereventshared_Icon_1dDpS {
-  color: #dfe3e6;
+  color: var(--Label);
   transition: all 0.2s ease-out;
   background: #3d4450;
   padding: 6px 25px 8px 25px;
@@ -15429,12 +15429,12 @@ button.Primary.partnereventshared_AddSectionButton_2_djj {
   color: #6e6e6e; }
 
 .suggestdialog_suggestOption_vquL9.suggestdialog_selected_boNOG {
-  color: #dfe3e6;
+  color: var(--Label);
   background-color: #434953;
   padding-left: 30px; }
 
 span.suggestdialog_mentionSearchMatch_2_0t_ {
-  color: #dfe3e6; }
+  color: var(--Label); }
 
 .emoticonsuggestion_Emoticon_Toggle_Y5J3n {
   margin-right: 8px;
@@ -16653,7 +16653,7 @@ textarea:-webkit-autofill:focus,
   flex-grow: 1;
   flex-basis: 50%;
   line-height: 32px;
-  color: #dfe3e6;
+  color: var(--Label);
   text-align: center;
   border-radius: 2px;
   cursor: pointer;
@@ -17462,7 +17462,7 @@ textarea:-webkit-autofill:focus,
   transition: all 0.2s ease-out;
   height: 38px;
   box-sizing: border-box;
-  color: #dfe3e6;
+  color: var(--Label);
   text-align: center;
   border-radius: 2px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
@@ -18187,7 +18187,7 @@ span.partnersaledisplay_vr_required_1P__h {
   user-select: none;
   background-image: radial-gradient(101.49% 168.36% at 1.01% 0%, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.1) 100%);
   border-radius: 3px;
-  color: #dfe3e6; }
+  color: var(--Label); }
   .salesectioneventschedule_SaleSchedRow_3l83c:hover {
     background-color: rgba(255, 255, 255, 0.3);
     color: #fff;
@@ -18298,7 +18298,7 @@ span.partnersaledisplay_vr_required_1P__h {
   display: flex;
   flex-direction: column;
   width: 100%;
-  color: #dfe3e6; }
+  color: var(--Label); }
   .salesectioneventschedule_EventWideCtn_3ebd7 .salesectioneventschedule_Title_J6ivk {
     text-transform: uppercase;
     font-size: 11px;
@@ -20349,7 +20349,7 @@ img.broadcastplayer_BroadcastPlaceholderImg_3hxn9 {
   margin-top: 20px; }
   .bbcodeeditor_EventEditorLinkInput_25nbu input {
     width: calc(100% - 20px);
-    color: #dfe3e6;
+    color: var(--Label);
     background: rgba(59, 63, 72, 0.5);
     border: none;
     box-shadow: inset 0px 0px 0px #0000;
@@ -20432,7 +20432,7 @@ img.broadcastplayer_BroadcastPlaceholderImg_3hxn9 {
   margin-right: 14px; }
   .bbcodeeditor_YouTubeInput_3WXTC input[type=text] {
     width: calc(100% - 20px);
-    color: #dfe3e6;
+    color: var(--Label);
     background: rgba(59, 63, 72, 0.5);
     border: none;
     box-shadow: inset 0px 0px 0px #0000;
@@ -23997,7 +23997,7 @@ img {
   resize: none;
   max-height: 100px;
   background: rgba(59, 63, 72, 0.5);
-  color: #dfe3e6;
+  color: var(--Label);
   font-size: 14px;
   font-family: "Motiva Sans", Arial, Helvetica, sans-serif;
   font-weight: 300;
