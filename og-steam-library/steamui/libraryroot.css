@@ -7049,7 +7049,7 @@ button.DialogButton::-moz-focus-inner {
   flex-shrink: 0; }
 
 .DialogBodyText {
-  color: #fff;
+  color: var(--Label);
   font-size: 12px;
   line-height: 19px;
   font-weight: 100;
