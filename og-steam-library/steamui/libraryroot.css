@@ -14222,7 +14222,7 @@ div.appgrid_CoverSizeSlider_U4J9B {
   font-size: 16px;
   height: 12px;
   margin: 0px 4px 3px;
-  color: rgba(255, 255, 255, 0.2); }
+  color: var(--Label); }
 
 .gamelistsectionheader_SectionRule_1PxXc {
   box-sizing: border-box;
