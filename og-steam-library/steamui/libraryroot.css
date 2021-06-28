@@ -10122,7 +10122,7 @@ div.sharescreenshotupload_Spoiler_tmUAv {
   box-sizing: border-box;
   width: 100%;
   font-size: 13px;
-  color: #808486;
+  color: var(--Label);
   background-color: transparent; }
   .appdetailsgameinfopanel_Container_2jPMy .appdetailsgameinfopanel_InnerContainer_37mmO {
     padding: 12px;
@@ -10152,7 +10152,7 @@ div.sharescreenshotupload_Spoiler_tmUAv {
       grid-area: desc; }
     .appdetailsgameinfopanel_Container_2jPMy .appdetailsgameinfopanel_SectionContainer_1uS70 .appdetailsgameinfopanel_GameDescription_3GkV1 {
       margin-right: 5px;
-      color: #808486;
+      color: var(--Label);
       max-width: 550px;
       padding-bottom: 12px;
       padding-right: 20px;
@@ -10180,7 +10180,7 @@ div.sharescreenshotupload_Spoiler_tmUAv {
       margin-right: 5px; }
     .appdetailsgameinfopanel_Container_2jPMy .appdetailsgameinfopanel_Stats_3cntz .appdetailsgameinfopanel_LastUpdated_1snWl .appdetailsgameinfopanel_Date_izVv8 {
       display: inline-block;
-      color: #808486; }
+      color: var(--Label); }
       .appdetailsgameinfopanel_Container_2jPMy .appdetailsgameinfopanel_Stats_3cntz .appdetailsgameinfopanel_LastUpdated_1snWl .appdetailsgameinfopanel_Date_izVv8.appdetailsgameinfopanel_Recent_1thSK {
         color: #348de6; }
 
@@ -10190,7 +10190,7 @@ div.sharescreenshotupload_Spoiler_tmUAv {
   margin-bottom: 8px; }
   .appdetailsgameinfopanel_AssociationList_2ZcNQ .appdetailsgameinfopanel_Label_1vYL2 {
     margin-right: 5px;
-    color: #808486;
+    color: var(--Label);
     line-height: 16px; }
   .appdetailsgameinfopanel_AssociationList_2ZcNQ .appdetailsgameinfopanel_Association_-9icu {
     display: flex;
