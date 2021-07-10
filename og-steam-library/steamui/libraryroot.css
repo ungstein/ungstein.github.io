@@ -5777,7 +5777,7 @@ img.emoticon_emoticon_AB86v {
 .emoticon_TopDivider_2A8Fl {
   height: 2px;
   width: 90%;
-  background-color: var(--DarkGreenBG);
+  background-color: #2b2c2f;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -5786,7 +5786,7 @@ img.emoticon_emoticon_AB86v {
 .emoticon_BottomDivider_2IZ1K {
   height: 2px;
   width: 90%;
-  background-color: var(--DarkGreenBG);
+  background-color: #2b2c2f;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -5920,7 +5920,7 @@ img.emoticon_emoticon_AB86v {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  border-bottom: 2px solid var(--DarkGreenBG); }
+  border-bottom: 2px solid #2b2c2f; }
 
 .addonpicker_Tab_2CJ0L {
   width: 32px;
@@ -5997,9 +5997,9 @@ img.emoticon_emoticon_AB86v {
   .addonpicker_FilterInputContainer_EuFeP .addonpicker_FilterInput_2l4z- {
     box-sizing: border-box;
     height: 28px;
-    background-color: var(--DarkGreenBG); }
+    background-color: #2b2c2f; }
     .addonpicker_FilterInputContainer_EuFeP .addonpicker_FilterInput_2l4z-:hover, .addonpicker_FilterInputContainer_EuFeP .addonpicker_FilterInput_2l4z-:focus {
-      background-color: var(--DarkGreenBG) !important; }
+      background-color: #2b2c2f !important; }
 
 .addonpicker_AddonPickerMessage_2wUk7 {
   font-size: 12px;
