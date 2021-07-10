@@ -5334,7 +5334,7 @@ a.appdetailsbroadcastsection_ViewBroadcastOnWeb_1Z3B4 {
   overflow-y: hidden; }
 
 .appdetailsachievementssection_InnerContainer_jxCcU {
-  background-color: #1d2227;
+  background-color: var(--DarkGreenBG);
   width: 100%; }
 
 .appdetailsachievementssection_InnerContainerLower_1qtrO {
@@ -8276,7 +8276,7 @@ body.in_global_drag .title-area {
     margin-left: 6px;
     width: 20px;
     height: 20px;
-    background: #1d2227;
+    background: var(--DarkGreenBG);
     color: var(--Label);
     padding: 4px;
     opacity: 0.5;
@@ -10743,7 +10743,7 @@ div.sharescreenshotupload_Spoiler_tmUAv {
   position: relative; }
 
 .appdetailsreviewsection_InnerContainer_1dW9d {
-  background-color: #1d2227;
+  background-color: var(--DarkGreenBG);
   width: 100%; }
 
 .appdetailsreviewsection_InnerContainerLower2_kr3AV {
@@ -10903,7 +10903,7 @@ div.sharescreenshotupload_Spoiler_tmUAv {
 .appdetailsreviewsection_VoteButton_3jaOU {
   display: flex !important;
   height: 33px;
-  background-color: #1d2227;
+  background-color: var(--DarkGreenBG);
   border-radius: 2px;
   border: none; }
 
@@ -11247,7 +11247,7 @@ div.sharescreenshotupload_Spoiler_tmUAv {
   .appdetailsworkshopsection_WorkshopSection_2PfKa .appdetailsworkshopsection_WorkshopSubCountFooter_3CjOR {
     width: 100%;
     height: 60px;
-    background-color: #1d2227;
+    background-color: var(--DarkGreenBG);
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -11282,7 +11282,7 @@ div.sharescreenshotupload_Spoiler_tmUAv {
 .appdetailsworkshopsection_WorkshopItem_24o0B {
   width: 100%;
   height: 64px;
-  background-color: #1d2227;
+  background-color: var(--DarkGreenBG);
   display: flex;
   flex-direction: row;
   margin-top: 4px; }
@@ -11346,7 +11346,7 @@ div.sharescreenshotupload_Spoiler_tmUAv {
   box-sizing: border-box;
   margin-top: 10px; }
   .appdetailsworkshopsection_VisitButtonContainer_1GHKp .appdetailsworkshopsection_VisitButton_AQr83 {
-    background-color: #1d2227;
+    background-color: var(--DarkGreenBG);
     height: 34px;
     color: #9f9fa0;
     font-size: 13px;
