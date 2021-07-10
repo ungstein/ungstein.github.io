@@ -20522,7 +20522,7 @@ textarea {
   max-height: 732px;
   background: #000; }
   .clanimagechooser_ImagesOuterContainer_3A8RG::-webkit-scrollbar-thumb {
-    background: #3d4450; }
+    background: var(--GreenBG); }
 
 .clanimagechooser_Hilight_1v_zQ {
   /* When search matches a part of the filename */
@@ -23902,10 +23902,10 @@ img {
   min-width: 32px; }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #4E5157; }
+  background: var(--GreenBG); }
 
 ::-webkit-scrollbar-corner {
-  background: #202020; }
+  background: var(--GreenBG); }
 
 ::selection {
   background: var(--MaizeBG);
