@@ -8794,7 +8794,7 @@ body.in_global_drag .title-area {
   background-clip: padding-box; }
 
 .artworkmodal_ArtworkModalDetails_1sEyq *::-webkit-scrollbar-corner {
-  background-color: #434953; }
+  background-color: var(--GreenBG); }
 
 .artworkmodal_ArtworkContainer_1DyzX {
   display: flex;
@@ -10006,7 +10006,7 @@ div.sharescreenshotupload_Spoiler_tmUAv {
     background-color: var(--GreenBG);
     background-clip: padding-box; }
   .appdetailssoundtrack_ArtworkModalContainer_1ye7X::-webkit-scrollbar-corner {
-    background-color: #434953; }
+    background-color: var(--GreenBG); }
 
 .appdetailssoundtrack_ArtworkModalDetails_SLVVM {
   display: flex;
@@ -23891,7 +23891,7 @@ img {
 
 ::-webkit-scrollbar-thumb {
   width: 10px;
-  background-color: #434953;
+  background-color: var(--GreenBG);
   border-radius: 10px;
   z-index: 12;
   border: 4px solid rgba(0, 0, 0, 0);
