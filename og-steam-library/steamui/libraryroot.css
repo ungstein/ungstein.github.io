@@ -5404,7 +5404,7 @@ a.appdetailsbroadcastsection_ViewBroadcastOnWeb_1Z3B4 {
 .appdetailsachievementssection_AdditionalItem_2aVnD {
   margin-right: 8px;
   cursor: pointer;
-  background-color: #2c3138;
+  background-color: var(--GreenBG);
   height: 48px; }
   .appdetailsachievementssection_AdditionalItem_2aVnD .appdetailsachievementssection_TextSection_1s_9c {
     display: none; }
@@ -5439,7 +5439,7 @@ a.appdetailsbroadcastsection_ViewBroadcastOnWeb_1Z3B4 {
   vertical-align: middle;
   position: relative;
   box-shadow: 0 0 3px #0005;
-  background: linear-gradient(to right, #3b414a 0%, #2c3138 95%); }
+  background: var(--GreenBG); }
 
 .appdetailsachievementssection_Icon_zcasg {
   width: 48px;
@@ -5456,7 +5456,7 @@ a.appdetailsbroadcastsection_ViewBroadcastOnWeb_1Z3B4 {
   .appdetailsachievementssection_Icon_zcasg.appdetailsachievementssection_IconGlow_2V3rF {
     box-shadow: 0px 0px 2px 1px rgba(255, 184, 78, 0.6), 0px 0px 16px 1px rgba(255, 184, 78, 0.4); }
   .appdetailsachievementssection_Icon_zcasg:after {
-    background: linear-gradient(to right, #3b414a 0%, #2c3138 95%);
+    background: linear-gradient(to right, #3b414a 0%, var(--GreenBG) 95%);
     position: absolute;
     top: 0;
     bottom: 0;
@@ -11100,7 +11100,7 @@ div.sharescreenshotupload_Spoiler_tmUAv {
       color: #9f9fa0; }
 
 .appdetailsworkshopsection_WorkshopContainer_176QJ {
-  background: url(/images/workshopbackground.png) #2c3138;
+  background: url(/images/workshopbackground.png) var(--GreenBG);
   background-repeat: no-repeat; }
 
 .appdetailsworkshopsection_WorkshopHightlight_1zmwc {
