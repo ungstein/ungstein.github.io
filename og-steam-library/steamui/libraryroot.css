@@ -13929,7 +13929,7 @@ div.appgrid_CoverSizeSlider_U4J9B {
   outline: none;
   cursor: pointer; }
   .gamelistentry_Container_2-O4Z:hover, .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
-    color: #fff;
+    color: #fff !important;
     background-color: transparent; }
   .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
     background-color: var(--BorderDark);
@@ -13939,7 +13939,7 @@ div.appgrid_CoverSizeSlider_U4J9B {
   .gamelistentry_Container_2-O4Z.gamelistentry_Selected_1UBpA.gamelistentry_Uninstalled_5YTBr, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z.gamelistentry_Uninstalled_5YTBr {
     color: var(--Label); }
   .gamelistentry_Container_2-O4Z.gamelistentry_Uninstalled_5YTBr:hover, .gamelistentry_Container_2-O4Z.gamelistentry_Uninstalled_5YTBr.gamelistentry_HoverOverlay_3cMVy {
-    color: var(--Label);
+    color: var(--Label) !important;
 	background-color: transparent; }
   .gamelistentry_Container_2-O4Z.gamelistentry_Updating_1LVQp {
     color: var(--OffWhite);
