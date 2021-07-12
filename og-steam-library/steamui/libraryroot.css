@@ -5400,7 +5400,7 @@ a.appdetailsbroadcastsection_ViewBroadcastOnWeb_1Z3B4 {
       -webkit-box-orient: vertical; }
     .appdetailsachievementssection_Featured_1j_gj .appdetailsachievementssection_TextSection_1s_9c .appdetailsachievementssection_Stats_VKo9p {
       flex: 0 1 auto;
-      color: #717070;
+      color: var(--DimListText);
       font-size: 13px; }
 
 .appdetailsachievementssection_AdditionalItem_2aVnD {
