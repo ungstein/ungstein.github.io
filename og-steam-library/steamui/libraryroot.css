@@ -3195,7 +3195,7 @@ button.appdetailsheader_ExitEditModeButton_i7jBC.appdetailsheader_ExitEditModeBu
     width: 14px;
     height: 14px; }
     .appdetailssectionheader_Label_1SQ30 .appdetailssectionheader_Arrow_1ARfZ svg {
-      fill: #717070; }
+      fill: var(--DimListText); }
 
 .appdetailssection_AppDetailsSection_2r4TK {
   font-family: "Motiva Sans", Arial, Helvetica, Sans-serif;
@@ -3386,7 +3386,7 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3Cdin {
     padding: 10px 15px;
     box-sizing: border-box;
     background: linear-gradient(to bottom, rgba(24, 26, 30, 0.7) 5%, rgba(24, 26, 30, 0.4) 95%);
-    color: #717070; }
+    color: var(--DimListText); }
 
 .appdetailsdlcsection_StoreHover_M1EYV {
   width: fit-content;
@@ -4792,7 +4792,7 @@ a.appdetailsbroadcastsection_ViewBroadcastOnWeb_1Z3B4 {
       font-size: 12px; }
   .appactivityday_ScreenshotCarousel_1pdQd .appactivityday_ScreenshotCaption_23HTp {
     transition: all 0.25s;
-    color: #717070;
+    color: var(--DimListText);
     font-size: 14px; }
   .appactivityday_ScreenshotCarousel_1pdQd .appactivityday_CarouselThumbs_1tRKR {
     flex: 1;
@@ -8257,7 +8257,7 @@ body.in_global_drag .title-area {
   .comment_thread_ActivityCommentThreadMinimized_EhWKR.comment_thread_IsVisible_1XYMA {
     opacity: 1; }
   .comment_thread_ActivityCommentThreadMinimized_EhWKR .comment_thread_RateButton_2y_jV {
-    color: #717070;
+    color: var(--DimListText);
     overflow: hidden;
     border-radius: 2px;
     cursor: pointer;
@@ -8267,8 +8267,8 @@ body.in_global_drag .title-area {
     .comment_thread_ActivityCommentThreadMinimized_EhWKR .comment_thread_RateButton_2y_jV .comment_thread_ThumbsUpUserNews_7yHZB {
       width: auto;
       height: inherit;
-      fill: #717070;
-      stroke: #717070; }
+      fill: var(--DimListText);
+      stroke: var(--DimListText); }
   .comment_thread_ActivityCommentThreadMinimized_EhWKR .comment_thread_DeleteButton_n-qlR {
     display: flex;
     flex-direction: row;
@@ -8304,8 +8304,8 @@ body.in_global_drag .title-area {
     .comment_thread_ActivityCommentThreadMinimized_EhWKR .comment_thread_MaximizeButton_2ox3w .comment_thread_CommentThread_34ZDO {
       width: auto;
       height: inherit;
-      fill: #717070;
-      stroke: #717070; }
+      fill: var(--DimListText);
+      stroke: var(--DimListText); }
   .comment_thread_ActivityCommentThreadMinimized_EhWKR .comment_thread_ViewComments_19xW0 {
     cursor: pointer;
     color: rgba(113, 112, 112, 0.5);
@@ -8316,7 +8316,7 @@ body.in_global_drag .title-area {
     color: #3b444d;
     margin-left: 4px; }
   .comment_thread_ActivityCommentThreadMinimized_EhWKR .comment_thread_RatingDetails_2lY7z {
-    color: #717070;
+    color: var(--DimListText);
     margin-left: 6px;
     user-select: none; }
 
@@ -8430,8 +8430,8 @@ body.in_global_drag .title-area {
             background: #3b414a;
             opacity: 1; }
           .comment_thread_ActivityCommentThread_39nna .comment_thread_Comment_515RL .comment_thread_CommentBody_1ltVe .comment_thread_CommentControls_2-3DH .comment_thread_DeleteButton_n-qlR .comment_thread_DeleteUserNews_KVWDb {
-            fill: #717070;
-            stroke: #717070;
+            fill: var(--DimListText);
+            stroke: var(--DimListText);
             width: 24px;
             height: 24px;
             margin: -6px; }
@@ -8489,7 +8489,7 @@ body.in_global_drag .title-area {
   .comment_thread_RatingBar_1yWgP.comment_thread_IsVisible_1XYMA {
     opacity: 1; }
   .comment_thread_RatingBar_1yWgP .comment_thread_RatingDetails_2lY7z {
-    color: #717070;
+    color: var(--DimListText);
     user-select: none;
     opacity: 1;
     font-size: 13px;
