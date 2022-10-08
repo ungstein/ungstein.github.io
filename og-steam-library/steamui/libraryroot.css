@@ -219,6 +219,11 @@ button.DialogButton.Primary:enabled:hover:active {
 .Destructive .ModalPosition_TopBar {
 	background: none;
 }
+
+.ModalDialogPopup .ModalDialogBody .title-area {
+	height: 16px;
+}
+
 .ModalPosition_Content {
 	color: var(--Label);
 }
@@ -329,7 +334,7 @@ button.DialogButton.Primary:enabled:hover:active {
 .DialogTextInputBase, ._DialogInputContainer {
     background: var(--DarkGreenBG);
 }
-.DialogTextInputBase. ._DialogInputContainer:focus {
+.DialogTextInputBase, ._DialogInputContainer:focus {
     background: var(--DarkGreenBG);
 }
 .DialogTextInputBase:not(:disabled) {
@@ -359,6 +364,33 @@ button.DialogButton.Primary:enabled:hover:active {
 }
 .appproperties_OptionDescription_q2l4w {
 	color: White;
+}
+
+.artworkmodal_ArtworkModal_36VpV {
+	border: none;
+}
+
+.artworkmodal_ModalBox_1Lfu7 {
+	background: var(--GreenBG);
+}
+.artworkmodal_ArtworkModalContainer_bAmL1 {
+	margin-top: 2px;
+	background: var(--GreenBG);
+	-webkit-mask-image: none;
+}
+.sharedialog_ShareButton_1FFkd {
+    border-style: solid;
+	border-width: 1px;
+	background-color: var(--GreenBG);
+	border-color: var(--BorderBright) var(--BorderDark) var(--BorderDark) var(--BorderBright);
+}
+.sharedialog_ShareButton_1FFkd:hover {
+	background-color: var(--GreenBG);
+	border-color: var(--BorderBright) var(--BorderDark) var(--BorderDark) var(--BorderBright);
+}
+.sharedialog_ShareButton_1FFkd:active {
+	background-color: var(--GreenBG);
+	border-color: var(--BorderDark) var(--BorderBright) var(--BorderBright) var(--BorderDark);
 }
 
 
@@ -1159,7 +1191,7 @@ width: 12px;
 
 
 .collectionview_OuterContainer_2sNr7 {
-	background: var(--DarkGreenBG); }
+	background: var(--DarkGreenBG); 
 }
 
 .appgrid_AppGridSectionHeader_3bWIS {
@@ -2010,7 +2042,6 @@ div.MediumWindow .downloadgraph_DownloadGraph_1BxZD .downloadgraph_Gradient_RfMM
 .downloads_SectionList_OINnO.downloads_DropOption_2m6Q3.downloads_DragOver_d9VKG {
 	border: none;
 	background: transparent;
-	margin-left:
 }
 .downloads_SectionItem_1VNuY.downloads_Active_IbePL.downloads_Dragging_3-SbB {
     margin-left: 0px;
@@ -2276,7 +2307,7 @@ button.DialogButton:disabled, button.DialogButton:disabled:hover {
 
 ::-webkit-scrollbar {
 	width: 18px;
-	background: transparent;
+	background: var(--GreenBG);
 }
 ::-webkit-scrollbar-corner {
 	background: transparent;
